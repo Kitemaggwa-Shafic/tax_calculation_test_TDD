@@ -8,3 +8,6 @@ def cal_tax(earnings):
     elif (earnings > 12000 and earnings <= 36000):
         tax = (0.2)
         return tax
+    elif (earnings > 36000):
+        tax = (40/100)
+        return tax
