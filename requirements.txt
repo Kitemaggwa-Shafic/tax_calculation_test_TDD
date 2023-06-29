@@ -1,0 +1,6 @@
+
+# calculate tax basing on salary using the descrption below
+
+#  01. if (earnings<12000) tax = 0
+#  02. if (earnings<36000) tax = 20%
+#  03. if (earnings>36000) tax = 40%
